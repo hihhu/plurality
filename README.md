@@ -1,2 +1,2 @@
 # plurality
-Learning stuff by doing
+Learning stuff by doing lots
